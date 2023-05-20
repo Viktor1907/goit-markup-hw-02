@@ -16,11 +16,11 @@ body {
 }
 
 .navigation-list:hover {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 
 .navigation-list:focus {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 .navigation-list {
 font-weight: 500;
@@ -31,11 +31,11 @@ color: #2E2F42;
 }
 
 .nav.header-address-link:hover {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 
 .nav.header-address-link:focus {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 
 .nav.header-address-link {
@@ -46,11 +46,11 @@ letter-spacing: 0.02em;
 }
 
 .header-buttion:hover {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 
 .header-buttion:focus {
-    color: #ff0d0d;
+    color: #404bbf;
 }
 
 .header-buttion {
