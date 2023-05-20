@@ -70,13 +70,23 @@ letter-spacing: 0.04em;
 color:#FFFFFF;
 }
 
+.solvable-title:hover {
+color: #404bbf;
+}
+
+.solvable-title:focus {
+color: #404bbf;
+}
+
 .solvable-title {
-font-family: 'Roboto', sans-serif;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
+text-align: center;
 letter-spacing: 0.02em;
+background-color: #4D5AE5
 color: #FFFFFF;
 }
 
