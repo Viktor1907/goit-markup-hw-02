@@ -16,41 +16,46 @@ body {
 }
 
 .navigation-list:hover {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .navigation-list:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 .navigation-list {
-font-weight: 500;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
 font-size: 16px;
-line-height: 1.33;
+line-height: 1.5;
 letter-spacing: 0.02em;
-color: #2E2F42;
+color: #434455;
 }
 
 .nav.header-address-link:hover {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .nav.header-address-link:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
-.nav.header-address-link {
+.header-address-link {
+font-family: 'Roboto';
+font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1.33;
+line-height: 1.5;
 letter-spacing: 0.02em;
+color: #434455;
 }
 
 .header-buttion:hover {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .header-buttion:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .header-buttion {
