@@ -76,7 +76,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
-text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
 }
@@ -94,9 +93,7 @@ font-family: 'Roboto';
 font-weight: 700;
 font-size: 36px;
 line-height: 1.1;
-text-align: center;
 letter-spacing: 0.02em;
-text-transform: capitalize;
 color: #2E2F42;
 }
 
@@ -114,7 +111,6 @@ font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
-text-transform: capitalize;
 color: #2E2F42;
 }
 
@@ -140,9 +136,7 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 display: flex;
-align-items: center;
 letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #F4F4FD;
 }
 .footer {
