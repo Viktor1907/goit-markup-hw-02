@@ -187,7 +187,7 @@ color:var(--title-text-color);
 }
 
 .compound-list-paragraf {
-    background-color: var(--primary-bg-color);
+    
 }
 
 .paragraf {
@@ -196,14 +196,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 background-color: var(--primary-bg-color);
 color:var(--primary-text-color);
-};
-}
-
-.flow {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #F4F4FD;
 }
 
 
@@ -222,3 +214,14 @@ color: #F4F4FD;
 .footer {
 background-color:var(--title-text-color);
 }
+
+.flow {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    }
+    
