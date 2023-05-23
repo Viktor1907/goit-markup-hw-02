@@ -3,6 +3,7 @@
     --title-text-color: #2E2F42;
     --accent-color: #404bbf;
     --primary-bg-color: #ffffff;
+    --sectoin-bg-color:#F4F4FD;
 }
 
 
@@ -175,8 +176,8 @@ letter-spacing: 0.02em;
 color: var(--primary-text-color);
 }
 
-.sectio-compoid {
-    background-color: #F4F4FD;
+.sectio-compoid.list {
+    background-color: var(--sectoin-bg-color);
 }
 
 .compound-list {
