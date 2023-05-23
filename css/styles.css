@@ -81,12 +81,15 @@ color:var(--accent-color);
 }
 
 .header-buttion.solnable {
-        ont-weight: 500;
+    font-family: "Roboto";
+    font-style: normal;
+    ont-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    cursor: pointer;
     background-color: #4D5AE5;
     color: #FFFFFF;
 } 
@@ -157,8 +160,10 @@ color: var(--title-text-color);
 font-family: 'Roboto';
 font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
+text-align: center;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 color: var(--title-text-color);
 }
 
