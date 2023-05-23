@@ -175,6 +175,10 @@ letter-spacing: 0.02em;
 color: var(--primary-text-color);
 }
 
+.sectio-compoid {
+    background-color: #F4F4FD;
+}
+
 .compound-list {
     background-color: #F4F4FD;
 }
