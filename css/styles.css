@@ -35,7 +35,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: var(--footer-logo-color);
 }
 
 /* header-navigation link */
@@ -246,6 +246,22 @@ background-color: var(--primary-bg-color);
 color:var(--primary-text-color);
 }
 
+/* list opportunity */
+
+.second-title-opportunity {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-text-color);
+}
+
+.paragraf-opportunity {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-text-color);
+}
 
 /* Footer */
 
