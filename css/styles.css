@@ -34,7 +34,8 @@ body {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color: var(--footer-logo-color);
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 /* header-navigation link */
