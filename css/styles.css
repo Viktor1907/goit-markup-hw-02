@@ -58,16 +58,12 @@ body {
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    display: flex;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
 }
 
-.navigation-list:hover {
-color: var(--accent-color);
-}
-
+.navigation-list:hover,
 .navigation-list:focus {
 color: var(--accent-color);
 }
@@ -84,12 +80,9 @@ color:var(--title-text-color);
 
 /* header-address link */
 
-.header-address-link:hover {
-color: var(--accent-color);
-}
-
+.header-address-link:hover,
 .header-address-link:focus {
-color:var(--accent-color);
+color: var(--accent-color);
 }
 
 .header-address-link {
@@ -102,12 +95,9 @@ letter-spacing: 0.02em;
 color: var(--primary-text-color);
 }
 
-.header-buttion:hover {
-color: var(--accent-color);
-}
-
+.header-buttion:hover,
 .header-buttion:focus {
-color:var(--accent-color);
+color: var(--accent-color);
 }
 
 /* Header-buttion */
@@ -128,8 +118,6 @@ color:var(--accent-color);
     ont-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.04em;
     cursor: pointer;
     background-color: #4D5AE5;
@@ -140,16 +128,11 @@ color:var(--accent-color);
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-display: flex;
-align-items: center;
 letter-spacing: 0.04em;
 color:var(--primary-bg-color);
 }
 
-.header-buttion.primatery:hover {
-    color:var(--primary-bg-color);
-}
-
+.header-buttion.primatery:hover,
 .header-buttion.primatery:focus {
     color:var(--primary-bg-color);
 }
@@ -159,10 +142,7 @@ color:var(--primary-bg-color);
     color: var(--primary-bg-color);
 }
 
-.header-buttion.secondary:hover {
-    color:var(--primary-bg-color);
-}
-
+.header-buttion.secondary:hover,
 .header-buttion.secondary:focus {
     color:var(--primary-bg-color);
 }
@@ -172,12 +152,9 @@ color:var(--primary-bg-color);
     color:#4d5ae5;
 }
 
-.solvable-title:hover {
+.solvable-title:hover,
+.solvable-title:focus  {
 color: var(--accent-color);
-}
-
-.solvable-title:focus {
-color:var(--accent-color);
 }
 
 .solvable-title {
