@@ -102,19 +102,13 @@ color: var(--accent-color);
 
 /* Header-buttion */
 
-.header-buttion.solnable:hover {
-    background-color: #404BBF;
-    color:var(--primary-bg-color);
-}
-
+.header-buttion.solnable:hover,
 .header-buttion.solnable:focus {
     background-color: #404BBF;
     color:var(--primary-bg-color);
 }
 
 .header-buttion.solnable {
-    font-family: "Roboto";
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -124,13 +118,7 @@ color: var(--accent-color);
     color:var(--primary-bg-color);
 } 
 
-.header-buttion {
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color:var(--primary-bg-color);
-}
+
 
 .header-buttion.primatery:hover,
 .header-buttion.primatery:focus {
