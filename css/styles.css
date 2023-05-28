@@ -108,7 +108,7 @@ color: var(--accent-color);
     color:var(--primary-bg-color);
 }
 
-.header-buttion.solnable {
+.buttion.solnable {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -118,7 +118,13 @@ color: var(--accent-color);
     color:var(--primary-bg-color);
 } 
 
-
+.header-buttion {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color:var(--primary-bg-color);
+}
 
 .header-buttion.primatery:hover,
 .header-buttion.primatery:focus {
