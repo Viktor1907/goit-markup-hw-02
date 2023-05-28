@@ -102,19 +102,19 @@ color: var(--accent-color);
 
 /* Header-buttion */
 
-.header-buttion.solnable:hover,
-.header-buttion.solnable:focus {
-    background-color: #404BBF;
+.header-buttion-solnable:hover,
+.header-buttion-solnable:focus {
+    background-color: var(--accent-color);
     color:var(--primary-bg-color);
 }
 
-.buttion.solnable {
+.header-buttion-solnable {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    background-color: #4D5AE5;
+    background-color: var(--footer-logo-color);
     color:var(--primary-bg-color);
 } 
 
