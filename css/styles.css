@@ -8,7 +8,7 @@
 }
 
 
-body {
+.body {
     font-family: "Roboto", sans-serif;
     background-color:var(--primary-bg-color);
     color: var(--primary-text-color);
@@ -102,13 +102,13 @@ color: var(--accent-color);
 
 /* Header-buttion */
 
-.header-solnable:hover,
-.header-solnable:focus {
+.header-buttion-solnable:hover,
+.header-buttion-solnable:focus {
     background-color: var(--accent-color);
     color:var(--primary-bg-color);
 }
 
-.header-solnable {
+.header-buttion-solnable {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
