@@ -182,6 +182,7 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+background-color: var(--sectoin-bg-color);
 color: var(--title-text-color);
 }
 
@@ -194,6 +195,10 @@ color: var(--primary-text-color);
 }
 
 /* Sectio-compoid list */
+
+.sectio-team {
+    background-color: var(--sectoin-bg-color);
+}
 
 .sectio-compoid.list {
     background-color: var(--sectoin-bg-color);
