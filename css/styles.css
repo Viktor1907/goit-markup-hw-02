@@ -120,22 +120,13 @@ color: var(--accent-color);
     color: #ffffff;
 } 
 
-.header-buttion {
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-cursor: pointer;
-background-color: var(--footer-logo-color);
-color:var(--primary-bg-color);
-}
 
-.buttion.header-buttion.primatery:hover,
-.buttion.header-buttion.primatery:focus {
+.header-buttion.primatery:hover,
+.header-buttion.primatery:focus {
     color:var(--primary-bg-color);
 }
 
-.buttion.header-buttion.primatery {
+.header-buttion.primatery {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
