@@ -51,7 +51,7 @@ body {
     color: #4D5AE5;
 }
 
-.style-logos-logo {
+.style-logos.link {
     font-family: "Raleway";
     font-style: normal;
     text-decoration: none;
@@ -60,7 +60,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: var(--title-text-color);
 }
 
 .navigation-list:hover,
