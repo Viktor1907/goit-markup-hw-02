@@ -127,10 +127,13 @@ color: var(--accent-color);
 }
 
 .header-buttion.primatery {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
     background-color:var(--accent-color);
     color: var(--primary-bg-color);
 }
@@ -141,10 +144,13 @@ color: var(--accent-color);
 }
 
 .header-buttion.secondary {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
     background: var(--sectoin-bg-color);
     color: var(--footer-logo-color);
 }
