@@ -278,7 +278,7 @@ color:var(--primary-text-color);
     background-color:var(--title-text-color);
 }
 
-.logo-link-link {
+.logo-link.link {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
