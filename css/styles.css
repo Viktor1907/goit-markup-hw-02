@@ -194,7 +194,7 @@ letter-spacing: 0.02em;
 color: var(--primary-text-color);
 }
 
-/* Sectio-compoid list */
+/* Sectio-team */
 
 .sectio-team {
     background-color: var(--sectoin-bg-color);
@@ -207,16 +207,13 @@ color: var(--primary-text-color);
 .compound-list {
     background-color: #F4F4FD;
 }
+
 .compound {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 color:var(--title-text-color);
-}
-
-.compound-list-paragraf {
-    
 }
 
 .paragraf {
@@ -279,6 +276,25 @@ color:var(--primary-text-color);
     text-transform: uppercase;
     color:var(--footer-logo-color);
     background-color:var(--title-text-color);
+}
+
+.logo-link-link {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: var(--footer-logo-color);
+}
+.style-logos-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1/17;
+    letter-spacing: 0.03em;
+    color: var(--sectoin-bg-color);
 }
 
 .flow {
