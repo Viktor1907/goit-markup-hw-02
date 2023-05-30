@@ -83,6 +83,11 @@ color:var(--title-text-color);
 .header-address-link-list-link {
     font-family: 'Roboto';
     font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-text-color);
 }
 
 .header-address-link:hover,
@@ -234,7 +239,11 @@ background-color: var(--primary-bg-color);
 color:var(--primary-text-color);
 }
 
-/* list opportunity */
+/* opportunity list  */
+
+.opportunity.list {
+    list-style: none;
+}
 
 .second-title-opportunity {
     font-weight: 500;
