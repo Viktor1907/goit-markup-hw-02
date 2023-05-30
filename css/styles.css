@@ -243,13 +243,13 @@ background-color: var(--primary-bg-color);
 color:var(--primary-text-color);
 }
 
-/*list  */
+/*row list  */
 
-.opportunity.list {
+.row-list {
     list-style: none;
 }
 
-.second-title-opportunity {
+.horo-row {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -257,7 +257,7 @@ color:var(--primary-text-color);
     color: var(--title-text-color);
 }
 
-.paragraf-opportunity {
+.botton-row {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
