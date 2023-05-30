@@ -95,6 +95,10 @@ color:var(--title-text-color);
 color: var(--accent-color);
 }
 
+.header-address {
+    font-style: normal; 
+}
+
 .header-address-link {
 font-family: 'Roboto';
 font-style: normal;
