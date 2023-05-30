@@ -214,7 +214,7 @@ color: var(--primary-text-color);
 
 /* Sectio-team */
 
-.sectio-team.list {
+.sectio-team {
     background-color: var(--sectoin-bg-color);
 }
 
@@ -231,7 +231,6 @@ color: var(--primary-text-color);
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: var(--primary-bg-color);
     color: var(--title-text-color);
 }
 
@@ -239,7 +238,6 @@ color: var(--primary-text-color);
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-background-color: var(--primary-bg-color);
 color:var(--primary-text-color);
 }
 
