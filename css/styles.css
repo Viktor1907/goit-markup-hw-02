@@ -214,6 +214,9 @@ color: var(--primary-text-color);
 
 /* Sectio-team */
 
+.sectio-team {
+    background-color: var(--sectoin-bg-color);
+}
 .sectio-compoid.list {
     background-color: var(--sectoin-bg-color);
 }
