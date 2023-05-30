@@ -225,12 +225,13 @@ color: var(--primary-text-color);
     background-color: var(--sectoin-bg-color);
 }
 
-.compound {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-color:var(--title-text-color);
+.second-title.team {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    background-color: var(--primary-bg-color);
+    color: var(--title-text-color);
 }
 
 .paragraf {
