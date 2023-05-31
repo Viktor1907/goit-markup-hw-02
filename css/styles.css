@@ -215,11 +215,11 @@ color: var(--primary-text-color);
 /* Sectio-team */
 
 .sectio-team {
-    background-color: var(--sectoin-bg-color);
+    background-color: #F4F4FD;
 }
 
 .compoid.list {
-    background-color: var(--primary-bg-color);
+    background-color: #FFFFFF;
 }
 
 .first-title.team {
