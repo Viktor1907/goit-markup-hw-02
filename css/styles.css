@@ -222,10 +222,6 @@ color: var(--primary-text-color);
     background-color: #FFFFFF;
 }
 
-.first-title.team {
-    background-color: var(--sectoin-bg-color);
-}
-
 .second-title.team {
     font-weight: 500;
     font-size: 20px;
