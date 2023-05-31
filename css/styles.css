@@ -154,6 +154,7 @@ color: var(--accent-color);
 
 .header-buttion.secondary:hover,
 .header-buttion.secondary:focus {
+    background: var(--accent-color);
     color:var(--primary-bg-color);
 }
 
@@ -165,7 +166,7 @@ color: var(--accent-color);
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    background: var(--sectoin-bg-color);
+    background: var(--sectoin-bg-color));
     color: var(--footer-logo-color);
 }
 
