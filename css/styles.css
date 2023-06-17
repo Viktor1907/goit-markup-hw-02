@@ -28,6 +28,10 @@ body {
 
 /* header-navigation link */
 
+    .header-navigation.link {
+        text-transform: uppercase;
+    }
+
 .logo-link-link {
     font-family: "Raleway", sans-serif;
     font-style: normal;
@@ -241,6 +245,7 @@ color:var(--primary-text-color);
 
 .footer {
     background: #2E2F42;
+    text-transform: uppercase;
 }
 
 .footer.logo-link-link {
